@@ -1,0 +1,5 @@
+# robots.txt for Johnson Bediako Ametsitsi Portfolio
+User-agent: *
+Allow: /
+
+Sitemap: https://johnsonishizaki.github.io/sitemap.xml
